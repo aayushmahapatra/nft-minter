@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/aayushmahapatra/Code/nft-minter-dapp/contracts/NftMinter.sol": {
+      "lastModificationDate": 1707663340314,
+      "contentHash": "545fc454c0c72a53ed7d59ef37ea4732",
+      "sourceName": "contracts/NftMinter.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "NFTMinter"
+      ]
+    }
+  }
+}
